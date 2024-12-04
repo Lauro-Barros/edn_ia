@@ -1,4 +1,10 @@
-
+"""
+Leia 4 numeros inteiros 
+B > A
+C + D > A + B
+C e D % 2 == 0
+A%2 ==0
+"""
 # Se B > C e D > A e C + D > A + B e C,D > 0,
 # com A for par, escreva valores aceitos
 
